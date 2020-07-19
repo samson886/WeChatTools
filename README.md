@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/gemgin/WeChatTools.svg?style=social&label=Stars)](https://github.com/gemgin/WeChatTools)
 [![GitHub forks](https://img.shields.io/github/forks/gemgin/WeChatTools.svg?style=social&label=Fork)](https://github.com/gemgin/WeChatTools)
 
-交流QQ群：41977413,QQ:391502069
+交流QQ群：41977413,[QQ:391502069](http://wpa.qq.com/msgrd?v=3&uin=391502069&site=qq&menu=yes "QQ:391502069")
 
 ## 项目介绍
 > 微信域名检测
